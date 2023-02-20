@@ -6,8 +6,7 @@ count++
 }
 }
 if(count==2){
-console.log("not prime")
-}
-else{
 console.log("prime")
+}else{
+console.log("not prime")
 }
